@@ -4,7 +4,7 @@
 
 This repository contains a MATLAB script to analyze calcium imaging data from zebrafish and to separate neural responses to different visual stimulations.
 This is related to the paper : "Lrrns define a visual circuit underlying brightness and contrast perception", Putti et al. 
-https://pubmed.ncbi.nlm.nih.gov/40654605/
+https://www.science.org/doi/10.1126/sciadv.adz4585/
 
 The script takes a mean calcium trace as input, applies OASIS-based deconvolution, and reconstructs response components restricted to predefined stimulation intervals.
 
